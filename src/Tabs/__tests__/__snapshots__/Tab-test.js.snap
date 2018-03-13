@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`basic rendering render a tab 1`] = `
+<div
+  className="tab "
+>
+  <a
+    onClick={[Function]}
+  >
+    <span>
+      Tab Title
+    </span>
+  </a>
+</div>
+`;
+
+exports[`render a tab 1`] = `
+<div
+  className="tab "
+>
+  <a
+    onClick={[Function]}
+  >
+    <span>
+      Tab Title
+    </span>
+  </a>
+</div>
+`;
